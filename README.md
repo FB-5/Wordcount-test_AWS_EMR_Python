@@ -1,4 +1,5 @@
-# Wordcount-test (do curso AWS Big Data da DIO)
+# Wordcount-test
+(do curso AWS Big Data da DIO)
 
 Algoritmo de extração/contabilização de palavras. Ordenar as palavras por ocorrência e não por ordem alfabética 
 (apresentando as mais citadas no texto com prioridade).
